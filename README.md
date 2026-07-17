@@ -11,6 +11,25 @@ I build brands and the systems that run them:
 
 Some brands run under my name. Some don't. That's by design, and the system that keeps them apart is documented in Gorgona.
 
-Smart but ruthless. Kind but takes no bullshit.
+## Find me
 
-Find me: [LinkedIn](https://www.linkedin.com/in/adrian-peticila/) · [X](https://x.com/adrianmpeticila) · [peticila.ro](https://peticila.ro)
+The same person across the web. If a profile isn't linked here, it isn't me.
+
+- [LinkedIn](https://www.linkedin.com/in/adrian-peticila/)
+- [X / Twitter](https://x.com/adrianmpeticila)
+- [peticila.ro](https://peticila.ro)
+- [aah.monster](https://aah.monster)
+- [Wikidata](https://www.wikidata.org/wiki/Q140362129)
+- [Crunchbase](https://www.crunchbase.com/person/adrian-peticila)
+- [Product Hunt](https://www.producthunt.com/@adrian_m_peticila)
+- [Qwoted](https://app.qwoted.com/sources/adrian-m-peticila)
+- [Quora](https://www.quora.com/profile/Adrian-M-Peticila)
+- [Gravatar](https://gravatar.com/adrianmpeticila)
+- [About.me](https://about.me/adrian.peticila)
+- [IndieWeb](https://indieweb.org/User:Peticila.ro)
+- [Goodreads](https://www.goodreads.com/user/show/186180125-adrian-m-peticila)
+- [SoundCloud](https://soundcloud.com/adrian-m-peticila)
+- [YouTube](https://www.youtube.com/@adrianpeticila)
+- [Instagram](https://www.instagram.com/adrian.peticila/)
+- [Threads](https://www.threads.com/@adrian.peticila)
+- [Facebook](https://www.facebook.com/adrian.peticila/)
