@@ -6,6 +6,7 @@ I build brands and the systems that run them:
 
 - [**Gorgona**](https://github.com/adrianpeticila/gorgona). The operating system: how one person runs several brands with AI without burning the budget or trusting the machine blindly.
 - [**peticila.ro**](https://peticila.ro). My name, my domain, my business card.
+- [**Hydra**](https://hydra.peticila.ro). The shelf under peticila.ro. Small brand tools that run in your browser and ask for nothing. First one up, a [slop detector](https://hydra.peticila.ro/slop/) that names the habits giving a text away. More heads grow back.
 - [**aah.monster**](https://aah.monster). My branding studio. Also my sandbox.
 - [**aponia.ro**](https://aponia.ro). Scheduling software for Romanian psychotherapists. No commission, no middleman.
 
