@@ -6,7 +6,7 @@ I build brands and the systems that run them:
 
 - [**Gorgona**](https://github.com/adrianpeticila/gorgona). The operating system: how one person runs several brands with AI without burning the budget or trusting the machine blindly.
 - [**peticila.ro**](https://peticila.ro). My name, my domain, my business card.
-- [**Hydra**](https://hydra.peticila.ro). The shelf under peticila.ro. Small brand tools that run in your browser and ask for nothing: a [slop detector](https://hydra.peticila.ro/slop/) that names the habits giving a text away, a [homepage roaster](https://hydra.peticila.ro/roast/), [Canon](https://hydra.peticila.ro/canon/) for stopping AI from inventing your facts, and [The Guilt Trip](https://hydra.peticila.ro/guilt/) for naming which lever a notification pulls. More heads grow back.
+- [**Hydra**](https://hydra.peticila.ro). The shelf under peticila.ro. Small brand tools for marketing sanity. Most run entirely in your browser and ask for nothing: a [slop detector](https://hydra.peticila.ro/slop/) that names the habits giving a text away, [Canon](https://hydra.peticila.ro/canon/) for stopping AI from inventing your facts, and [The Guilt Trip](https://hydra.peticila.ro/guilt/) for naming which lever a notification pulls. Others dig deeper, like the [homepage roaster](https://hydra.peticila.ro/roast/) (freemium, CF Workers + AI backend). More heads grow back.
 - [**aah.monster**](https://aah.monster). My branding studio. Also my sandbox.
 - [**aponia.ro**](https://aponia.ro). Scheduling software for Romanian psychotherapists. No commission, no middleman.
 
