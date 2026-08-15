@@ -1,42 +1,52 @@
-# Adrian M. Peticila
+# Adrian M. Peticila <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 
-Marketer. 20+ years in the trade. CMO by day, portfolio operator after hours.
+> 💭 Half man. Half brand. Half lore.
+> Hardboiled marketer. CMO by day, portfolio operator after hours.
+> Still more interested in the truth than the deck.
 
-I build brands and the systems that run them:
+[![aah.monster](https://img.shields.io/badge/aah.monster-branding%20studio-111111?style=for-the-badge&logoColor=white)](https://aah.monster)
+[![peticila.ro](https://img.shields.io/badge/peticila.ro-personal%20hub-000000?style=for-the-badge&logo=safari&logoColor=white)](https://peticila.ro)
+[![aponia.ro](https://img.shields.io/badge/aponia.ro-psychotherapists-7F5AF0?style=for-the-badge&logo=calendly&logoColor=white)](https://aponia.ro)
+[![X](https://img.shields.io/badge/@adrianmpeticila-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adrianmpeticila)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-peticila/)
+[![Buy%20Me%20a%20Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adrianmpeticila)
 
-- [**Gorgona**](https://github.com/adrianpeticila/gorgona). The operating system: how one person runs several brands with AI without burning the budget or trusting the machine blindly.
-- [**peticila.ro**](https://peticila.ro). My name, my domain, my business card. Home of [Nemesis LI](https://peticila.ro/nemesis-li/): a free LinkedIn profile grader. Paste your profile and the jobs you actually want, get a letter grade and the single biggest fix. No account, no upload — it stays in your browser.
-- [**Personal Daemon**](https://peticila.ro/daemon/). Machine-readable identity API and live runtime directives for AI agents and digital assistants (raw JSON: [daemon-data.json](https://peticila.ro/daemon-data.json), markdown: [daemon.md](https://peticila.ro/daemon.md)).
-- [**Hydra**](https://hydra.peticila.ro). The shelf under peticila.ro. Small brand tools for marketing sanity. Most run entirely in your browser and ask for nothing: [Aeolus](https://hydra.peticila.ro/aeolus/) (zero-dependency branch diff & pre-push auditor), a [B2B Bullshit Detector](https://hydra.peticila.ro/bullshit-detector/), a [slop detector](https://hydra.peticila.ro/slop/) that names the habits giving a text away, [Canon](https://hydra.peticila.ro/canon/) for stopping AI from inventing your facts, [The Guilt Trip](https://hydra.peticila.ro/guilt/) for naming which lever a notification pulls, and the [B2B Bullshit Detector](https://github.com/adrianpeticila/b2b-bullshit-detector) for catching corporate jargon in hero copy. Others dig deeper, like the [homepage roaster](https://hydra.peticila.ro/roast/) (freemium, CF Workers + AI backend). More heads grow back.
-- [**aah.monster**](https://aah.monster). My branding studio. Also my sandbox. Home of the [LLMs.txt Generator](https://github.com/adrianpeticila/llmstxt-generator) for structuring your brand's AI instructions, the [Daemon](https://aah.monster/daemon/) operational feed, [Gaia Code](https://aah.monster/gaia-code/) (deterministic code grading, runs in your browser, no AI opinion, no upload), [Eos MCP](https://aah.monster/eos-mcp/) (drop-in MCP servers for AI agents, MIT-licensed, free tier), and the [Positioning Audit MCP](https://aah.monster/mcp/).
-- [**aponia.ro**](https://aponia.ro). Scheduling software for Romanian psychotherapists. No commission, no middleman. Features the [Aponia Daemon](https://aponia.ro/daemon/) telemetry feed, the [Mental Health Triage MCP Protocol](https://aponia.ro/mcp/), and [Rhea](https://aponia.ro/rhea/): a free tool that tells a therapist in 30 seconds how visible they are on Google — presence, website, reviews — computed in the browser, no account (RO `/rhea/`, EN `/en/rhea/`).
-- [**DUNE**](https://github.com/adrianpeticila/DUNE). Agritech WhatsApp AI Agent (WebMCP) for desertification mapping and B2B crop recommendations.
+---
 
-Some brands run under my name. Some don't. That's by design, and the system that keeps them apart is documented in Gorgona.
+## 💭 About
 
-## Find me
+Marketer. 20+ years in the trade. CMO by day, portfolio operator after hours. I build brands and the systems that run them. Some run under my name. Some don't. That's by design — the system that keeps them apart is [documented in Gorgona](https://github.com/adrianpeticila/gorgona).
+
+## 🧰 What ships under the name
+
+- **Gorgona** — the operating system: how one person runs several brands with AI, without burning the budget or trusting the machine blindly.
+- **peticila.ro** — my name, my domain, my business card. Home of [Nemesis LI](https://peticila.ro/nemesis-li/): a free LinkedIn profile grader. Paste your profile and the jobs you want, get a letter grade and the single biggest fix. No account, no upload — it stays in your browser.
+- **Personal Daemon** — machine-readable identity API and live runtime directives for AI agents. Raw JSON: [daemon-data.json](https://peticila.ro/daemon-data.json) · markdown: [daemon.md](https://peticila.ro/daemon.md).
+- **Hydra** — the shelf under peticila.ro. Small brand tools for marketing sanity, mostly in-browser and free: [Aeolus](https://hydra.peticila.ro/aeolus/), [B2B Bullshit Detector](https://hydra.peticila.ro/bullshit-detector/), [Slop Detector](https://hydra.peticila.ro/slop/), [Canon](https://hydra.peticila.ro/canon/), [The Guilt Trip](https://hydra.peticila.ro/guilt/). More heads grow back.
+- **aah.monster** — my branding studio & sandbox: [LLMs.txt Generator](https://github.com/adrianpeticila/llmstxt-generator), [Gaia Code](https://aah.monster/gaia-code/), [Eos MCP](https://aah.monster/eos-mcp/) (drop-in MCP servers, MIT), [Positioning Audit MCP](https://aah.monster/mcp/).
+- **aponia.ro** — scheduling for Romanian psychotherapists. No commission, no middleman. [Rhea](https://aponia.ro/rhea/): a 30-second therapist visibility score, computed in the browser.
+- **DUNE** — agritech WhatsApp AI agent (WebMCP) for desertification mapping and B2B crop recommendations.
+
+## 🗺️ Find me
 
 The same person across the web. If a profile isn't linked here, it isn't me.
 
-- [LinkedIn](https://www.linkedin.com/in/adrian-peticila/)
-- [X / Twitter](https://x.com/adrianmpeticila)
-- [GitHub](https://github.com/adrianpeticila)
-- [peticila.ro](https://peticila.ro)
-- [aah.monster](https://aah.monster)
-- [Wikidata](https://www.wikidata.org/wiki/Q140362129)
-- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Adrian_M._Peticila_2026.png)
-- [Crunchbase](https://www.crunchbase.com/person/adrian-peticila)
-- [Product Hunt](https://www.producthunt.com/@adrian_m_peticila)
-- [Qwoted](https://app.qwoted.com/sources/adrian-m-peticila)
-- [Quora](https://www.quora.com/profile/Adrian-M-Peticila)
-- [Gravatar](https://gravatar.com/adrianmpeticila)
-- [About.me](https://about.me/adrian.peticila)
-- [IndieWeb](https://indieweb.org/User:Peticila.ro)
-- [Goodreads](https://www.goodreads.com/user/show/186180125-adrian-m-peticila)
-- [SoundCloud](https://soundcloud.com/adrian-m-peticila)
-- [YouTube](https://www.youtube.com/@adrianpeticila)
-- [Instagram](https://www.instagram.com/adrian.peticila/)
-- [Threads](https://www.threads.com/@adrian.peticila)
-- [Facebook](https://www.facebook.com/adrian.peticila/)
-- [Buy Me a Coffee](https://buymeacoffee.com/adrianmpeticila)
-- [Dev.to](https://dev.to/adrian_m_peticila)
+- **LinkedIn** · **X / Twitter** · **GitHub** — where it all lives
+- **peticila.ro** · **aah.monster** · **aponia.ro** — the brands
+- **Buy Me a Coffee** — if you want to say thanks
+
+<details>
+<summary>📦 The whole web presence — canonicity, daemon-style</summary>
+
+Wikidata · Wikimedia Commons · Crunchbase · Product Hunt · Qwoted · Quora · Gravatar · About.me · IndieWeb · Goodreads · SoundCloud · YouTube · Instagram · Threads · Facebook · Dev.to
+
+_Full list maintained at [peticila.ro](https://peticila.ro) and in the Personal Daemon live directives._
+
+</details>
+
+## ⚡ What I'm shipping
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+![Adrian's contribution snake](https://raw.githubusercontent.com/adrianpeticila/adrianpeticila/output/snake.svg)
