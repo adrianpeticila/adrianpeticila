@@ -6,6 +6,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: Platane/snk@v3
@@ -13,7 +15,7 @@ jobs:
           github_user_name: adrianpeticila
           outputs: |
             dist/snake.svg?color_snake=#4ea1ff&color_dots=#2d2d2d,#65b33a,#4a8e2a,#3b7022,#2c541a
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: output
           build_dir: dist
