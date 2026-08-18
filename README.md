@@ -46,7 +46,4 @@ _Full list maintained at [peticila.ro](https://peticila.ro) and in the Personal 
 
 ## ⚡ What I'm shipping
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
 ![Adrian's contribution snake](https://raw.githubusercontent.com/adrianpeticila/adrianpeticila/output/snake.svg)
