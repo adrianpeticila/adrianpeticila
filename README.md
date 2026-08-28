@@ -4,6 +4,7 @@
 > Hardboiled marketer. CMO by day, portfolio operator after hours.
 > Still more interested in the truth than the deck.
 
+[![AI for Babies](https://img.shields.io/badge/AI%20for%20Babies-engineering%20suite-111111?style=for-the-badge&logoColor=white)](https://aiforbabies.pages.dev)
 [![aah.monster](https://img.shields.io/badge/aah.monster-branding%20studio-111111?style=for-the-badge&logoColor=white)](https://aah.monster)
 [![peticila.ro](https://img.shields.io/badge/peticila.ro-personal%20hub-000000?style=for-the-badge&logo=safari&logoColor=white)](https://peticila.ro)
 [![aponia.ro](https://img.shields.io/badge/aponia.ro-psychotherapists-7F5AF0?style=for-the-badge&logo=calendly&logoColor=white)](https://aponia.ro)
@@ -18,6 +19,8 @@
 Marketer. 20+ years in the trade. CMO by day, portfolio operator after hours. I build brands and the systems that run them. Some run under my name. Some don't. That's by design: the system that keeps them apart is [documented in Gorgona](https://github.com/adrianpeticila/gorgona).
 
 ## 🧰 What ships under the name
+
+- **AI for Babies** : AI explained for people with actual jobs. An 11ty brutalist developer suite featuring an interactive prompt evaluator, 106-term AI dictionary, visual RAG masterclass, AGENTS.md spec builder, speculative decoding lab, agent gym simulator, WebMCP tool scanner, and marketing intelligence layer: [aiforbabies.pages.dev](https://aiforbabies.pages.dev) · [GitHub](https://github.com/adrianpeticila/ai-babies).
 
 - **Gorgona** : the operating system: how one person runs several brands with AI, without burning the budget or trusting the machine blindly.
 - **peticila.ro** : my name, my domain, my business card. Home of [Nemesis LI](https://peticila.ro/nemesis-li/): a free LinkedIn profile grader. Paste your profile and the jobs you want, get a letter grade and the single biggest fix. No account, no upload : it stays in your browser.
