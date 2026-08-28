@@ -19,6 +19,7 @@
 Marketer. 20+ years in the trade. CMO by day, portfolio operator after hours. I build brands and the systems that run them. Some run under my name. Some don't. That's by design: the system that keeps them apart is [documented in Gorgona](https://github.com/adrianpeticila/gorgona).
 
 ## 🧰 What ships under the name
+- **[AI for Babies](https://aiforbabies.pages.dev/)** : AI Explained for People with Actual Jobs - interactive suite covering Prompt Engineering, RAG architectures, 106-term AI dictionary, Agent Gym, and multi-agent systems.
 
 - **AI for Babies** : AI explained for people with actual jobs. An 11ty brutalist developer suite featuring an interactive prompt evaluator, 106-term AI dictionary, visual RAG masterclass, AGENTS.md spec builder, speculative decoding lab, agent gym simulator, WebMCP tool scanner, and marketing intelligence layer: [aiforbabies.pages.dev](https://aiforbabies.pages.dev) · [GitHub](https://github.com/adrianpeticila/ai-babies).
 
