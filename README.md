@@ -34,7 +34,7 @@ Marketer. 20+ years in the trade. CMO by day, portfolio operator after hours. I 
   - [Deck Rubric](https://hydra.peticila.ro/deck/): 11-point pitch deck diagnostic.
   - [Homepage Roaster](https://hydra.peticila.ro/roast/): Automated inspection of positioning clarity and friction.
 - **aah.monster** : my branding studio & sandbox: [LLMs.txt Generator](https://github.com/adrianpeticila/llmstxt-generator), [Gaia Code](https://aah.monster/gaia-code/), [Eos MCP](https://aah.monster/eos-mcp/) (drop-in MCP servers, MIT), [Positioning Audit MCP](https://aah.monster/mcp/).
-- **aponia.ro** : scheduling for Romanian psychotherapists. No commission, no middleman. [Rhea](https://aponia.ro/rhea/): a 30-second therapist visibility score, computed in the browser.
+- **aponia.ro** : scheduling for Romanian psychotherapists. No commission, no middleman. Features clinical biofeedback respite tools for autonomic nervous system regulation ([interactive demo](https://aponia.ro/wellbeing/demo-unelte.html)) and [Rhea](https://aponia.ro/rhea/): a 30-second therapist visibility score, computed in the browser.
 - **DUNE** : agritech WhatsApp AI agent (WebMCP) for desertification mapping and B2B crop recommendations.
 
 ## 🗺️ Find me
