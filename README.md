@@ -34,7 +34,7 @@ Marketer. 20+ years in the trade. CMO by day, portfolio operator after hours. I 
   - [Deck Rubric](https://hydra.peticila.ro/deck/): 11-point pitch deck diagnostic.
   - [Homepage Roaster](https://hydra.peticila.ro/roast/): Automated inspection of positioning clarity and friction.
 - **aah.monster** : my branding studio & sandbox: [LLMs.txt Generator](https://github.com/adrianpeticila/llmstxt-generator), [Gaia Code](https://aah.monster/gaia-code/), [Eos MCP](https://aah.monster/eos-mcp/) (drop-in MCP servers, MIT), [Positioning Audit MCP](https://aah.monster/mcp/).
-- **aponia.ro** : scheduling for Romanian psychotherapists. No commission, no middleman. Features clinical biofeedback respite tools for autonomic nervous system regulation ([interactive demo](https://aponia.ro/wellbeing/demo-unelte.html)) and [Rhea](https://aponia.ro/rhea/): a 30-second therapist visibility score, computed in the browser.
+- **[aponia.ro](https://aponia.ro/)** : Independent practice management and clinical biofeedback suite for psychotherapists. Includes [Rhea](https://aponia.ro/rhea/) (visibility audit), interactive [Respite Space](https://aponia.ro/wellbeing/demo-unelte.html) (somatic regulation: Popas, Jupiter, Mars, Mercury), [Anxiety Screening](https://aponia.ro/test-anxietate/) (GAD-7), [Lost Revenue Calculator](https://aponia.ro/calculator-programari-pierdute/), and 7-module [Wellbeing](https://aponia.ro/wellbeing/) protocol. Zero middleman fees, 100% on-device somatic privacy.
 - **DUNE** : agritech WhatsApp AI agent (WebMCP) for desertification mapping and B2B crop recommendations.
 
 ## 🗺️ Find me
