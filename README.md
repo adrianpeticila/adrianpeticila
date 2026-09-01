@@ -19,8 +19,8 @@
 Marketer. 20+ years in the trade. CMO by day, portfolio operator after hours. I build brands and the systems that run them. Some run under my name. Some don't. That's by design: the system that keeps them apart is [documented in Gorgona](https://github.com/adrianpeticila/gorgona).
 
 ## 🧰 What ships under the name
-* **AI for Babies** - `https://github.com/adrianpeticila/ai-babies` | `https://aiforbabies.pages.dev/` | Gumroad: `https://aiforbabies.gumroad.com/l/cognitive-pack`
-* **Flamin.go** - `https://github.com/adrianpeticila/flamin-go` | `https://flamin.go` (Creative growth engine, generative visual pipelines, and WebMCP agent interfaces).
+- **Flamin.go** - https://github.com/adrianpeticila/flamin-go | https://flamin-go.pages.dev/ (Creative growth engine, generative visual pipelines, and WebMCP agent interfaces).
+- **AI for Babies** - https://github.com/adrianpeticila/ai-babies | https://aiforbabies.pages.dev/ | Gumroad: https://aiforbabies.gumroad.com/l/cognitive-pack
 
 - **Gorgona** : the operating system: how one person runs several brands with AI, without burning the budget or trusting the machine blindly.
 - **peticila.ro** : my name, my domain, my business card. Home of [Nemesis LI](https://peticila.ro/nemesis-li/): a free LinkedIn profile grader. Paste your profile and the jobs you want, get a letter grade and the single biggest fix. No account, no upload : it stays in your browser.
