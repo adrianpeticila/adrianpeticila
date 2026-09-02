@@ -20,11 +20,19 @@
   <a href="https://www.wikidata.org/wiki/Q140362129"><img src="https://img.shields.io/badge/Wikidata-Q140362129-339966?style=for-the-badge&logo=wikidata&logoColor=white" alt="Wikidata" /></a>
 </p>
 
+<p align="center">
+  <a href="https://flamin-go.pages.dev"><img src="https://img.shields.io/badge/flamin.go-link%20aggregator-0EA5E9?style=for-the-badge&logo=linktree&logoColor=white" alt="flamin.go" /></a>
+  <a href="https://www.crunchbase.com/person/adrian-peticila"><img src="https://img.shields.io/badge/Crunchbase-adrian--peticila-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white" alt="Crunchbase" /></a>
+  <a href="https://orcid.org/0009-0005-9601-9527"><img src="https://img.shields.io/badge/ORCID-0009--0005--9601--9527-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://hydra.peticila.ro"><img src="https://img.shields.io/badge/hydra-15%20gates-111111?style=for-the-badge&logo=github&logoColor=white" alt="hydra" /></a>
+  <a href="https://github.com/adrianpeticila/gorgona"><img src="https://img.shields.io/badge/gorgona-OS%20for%20brands-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="gorgona" /></a>
+</p>
+
 </div>
 
 ---
 
-```text
+```bash
 ┌──(adrian㉿peticila)-[~]
 └─$ whoami --verbose
 Name:         Adrian M. Peticila
@@ -38,7 +46,25 @@ Canonical:    https://peticila.ro | Wikidata: Q140362129 | daemon.md
 
 ---
 
-## 🏛️ Core Philosophy & Operating Model
+## Who I help → What I build → Proof
+
+### Who I help
+B2B tech and software services with traction but diluted positioning. Losing on price, clarity, and AI search. They have team plus AI tools plus CRM plus content plus outbound, but as disconnected islands.
+
+### What I build
+brand → positioning → gates → AI → automation → measurement, a deterministic system. Hydra is the shelf of 15 deterministic gates (Chasm, Slop, Canon, Aeolus, Roast, Deck) on [hydra.peticila.ro](https://hydra.peticila.ro). Gorgona is the OS that runs a portfolio of brands alone (model routing, token economy, verification, multi-brand isolation).
+
+### Proof
+Live systems, not slides. Hydra ships 15 gates verified 200 OK today, 41 commits on main. Gorgona ships 3 runnable guards in [tools/](https://github.com/adrianpeticila/gorgona/tree/main/tools) (security_exposure_check.sh, memory_graph_check.py, morning_routine.py). See System status below for verifiable live values. Every new client adds a row, nothing gets overwritten.
+
+<p align="center">
+  <a href="https://peticila.ro/nemesis-li/"><img src="https://img.shields.io/badge/Test%20free%20in%202%20min-Nemesis%20LI-1f883d?style=for-the-badge" alt="Test free" /></a>
+  <a href="https://aah.monster/brand-audit/"><img src="https://img.shields.io/badge/Book%20audit-%E2%82%AC199-f6f8fa?style=for-the-badge" alt="Book audit" /></a>
+</p>
+
+---
+
+## 🏛 Core Philosophy & Operating Model
 
 - **Marketing as an Engineering Discipline**: Modern growth systems must be deterministic, auditable, and resilient. Strategy without verifiable architecture is merely wishful thinking.
 - **Brand as an Anti-Fragile Moat**: Long-term positioning beats temporary acquisition arbitrage. True differentiation creates pricing power and cognitive monopoly.
@@ -47,11 +73,54 @@ Canonical:    https://peticila.ro | Wikidata: Q140362129 | daemon.md
 
 ---
 
+## How I use GitHub
+
+Not a dev portfolio. An archive of systems, auditable, versioned gates I actually run. Every repo: Problem → Live demo → Run in 30s. Strategy stays private, you get the machine, not the ammunition. See [daemon.md](https://peticila.ro/daemon.md) for AI parseable directives.
+
+---
+
+## Pricing ladder → enter where you are
+
+All prices scraped live 2026-09-02 from [aah.monster](https://aah.monster). Roast is $19 USD.
+
+| Step | Product | Who it is for | Price | Link |
+| :--- | :--- | :--- | :---: | :---: |
+| `Free` | [Nemesis LI](https://peticila.ro/nemesis-li/) plus [Slop Detector](https://hydra.peticila.ro/slop/) plus [Roast](https://hydra.peticila.ro/roast/) (free tier) | Anyone testing the standard in 2 min | **€0** | [Try →](https://peticila.ro/nemesis-li/) |
+| `Free` | [Chasm](https://hydra.peticila.ro/chasm/) / [Canon](https://hydra.peticila.ro/canon/) / [Tyche](https://hydra.peticila.ro/tyche/) / [Cadmus](https://hydra.peticila.ro/cadmus/) / [Aeolus](https://hydra.peticila.ro/aeolus/) | Teams shipping AI content or code without guardrails | **€0** | [Live →](https://hydra.peticila.ro) |
+| `Entry` | [Homepage Roaster](https://hydra.peticila.ro/roast/) (full unlock) | Homepages that do not convert | **$19** | [Roast →](https://hydra.peticila.ro/roast/) |
+| `Asset` | [Voice Fingerprint](https://aah.monster/voice-fingerprint/) | Teams paying for invisible writing | **€249** | [Voice →](https://aah.monster/voice-fingerprint/) |
+| `Diagnostic` | [Personal Brand Audit](https://aah.monster/brand-audit/), async 48 to 72h | Founder or C-level with unclear message | **€199** | [Audit →](https://aah.monster/brand-audit/) |
+| `Rebuild` | [Positioning Sprint](https://aah.monster/positioning-sprint/), 5 days | B2B that sounds like everyone | **€499** | [Sprint →](https://aah.monster/positioning-sprint/) |
+| `System` | [AI Executive System](https://aah.monster/ai-executive/) | Executive who became the bottleneck | **€1,500** | [AES →](https://aah.monster/ai-executive/) |
+| `Scale` | [The Monster Job](https://aah.monster/the-monster-job/), 4 weeks | Full personal brand transformation | **€2,500** | [Monster →](https://aah.monster/the-monster-job/) |
+| `Scale` | [Monster on Retainer](https://aah.monster/monster-retainer/) | Ongoing brand system | **€2k/mo** | [Retainer →](https://aah.monster/monster-retainer/) |
+
+Plus books: Fear is the Brand Killer €49, Personal Branding Manual €97. Gorgona GEO Deploy and Hydra Firewall are bespoke, quoted per scope, not fixed ladder items.
+
+### Funnel that actually converts
+Free gate (2 min) → sees your standard → €199 audit (async) → €499 sprint → €1,500 AI Executive System → €2,500 Monster Job → €2k/mo retainer. Each step hands you a document you can use.
+
+---
+
+## System status → live, not promised
+
+If you are technical, verify it. If you are not, skip it. This table is for the second buyer, not the first.
+
+| What | Live value | Source | Link |
+| :--- | :--- | :--- | :---: |
+| Gates live | 15 on hydra.peticila.ro, all 200 OK today | curl 2026-09-02 | [Live →](https://hydra.peticila.ro) |
+| Hydra main | 41 commits | git log | [Commits →](https://github.com/adrianpeticila/hydra) |
+| Gorgona guards | 3 scripts in tools/ | ls gorgona/tools | [Tools →](https://github.com/adrianpeticila/gorgona) |
+| Profile | 10 repos, 1 star each, 44 followers | api.github.com | [Profile →](https://github.com/adrianpeticila) |
+| Daemon | daemon.md + daemon-data.json 200 OK, v1.0 | curl + json | [JSON →](https://peticila.ro/daemon-data.json) |
+
+Not social proof. System proof. For the buyer who checks before wiring €2,500. Business proof (Before/After pipeline, citations) lives in case-studies/ and grows per client.
+
+---
+
 ## 🚀 Public Repositories
 
-A mapped overview of open-source repositories, developer tooling, and autonomous marketing frameworks:
-
-| Repository | Focus & Architecture | Live Deployment / Target |
+| Repository | Focus & Architecture | Live Deployment |
 | :--- | :--- | :--- |
 | [**`gorgona`**](https://github.com/adrianpeticila/gorgona) | GEO & AI Search Engine visibility analyzer and brand isolation engine. Deterministic auditing for LLM indexability and synthetic answer surface area. | [gorgona docs](https://github.com/adrianpeticila/gorgona) |
 | [**`hydra`**](https://github.com/adrianpeticila/hydra) | Hydra B2B Marketing Engine. Deterministic multi-agent framework and micro-tools for brand sanity, editorial gating, and cognitive tension analysis. | [hydra.peticila.ro](https://hydra.peticila.ro) |
@@ -97,7 +166,7 @@ A mapped overview of open-source repositories, developer tooling, and autonomous
 
 ---
 
-## 🛠️ Technical Arsenal & Stack
+## 🛠 Technical Arsenal & Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -117,6 +186,8 @@ A mapped overview of open-source repositories, developer tooling, and autonomous
 - **Frameworks & Edge**: Astro, Tailwind CSS, FastMCP, Vite, Node.js, Cloudflare Workers & Pages
 - **Architectural Protocols**: Model Context Protocol (MCP), Generative Engine Optimization (GEO), Schema.org JSON-LD, OpenAPI, llms.txt standard
 - **Infrastructure & Automation**: Docker, Firebase, GitHub Actions CI/CD, Edge KV storage
+
+*I ship with these, I do not claim mastery of them. Built with AI, verified with gates.*
 
 ---
 
@@ -141,7 +212,7 @@ The intellectual foundations behind the marketing systems, positioning framework
 </details>
 
 <details>
-<summary>⚙️ <strong>Hydra Protocol: Architectural Deep Dive & Modules</strong></summary>
+<summary>⚙ <strong>Hydra Protocol: Architectural Deep Dive & Modules</strong></summary>
 
 <br />
 
