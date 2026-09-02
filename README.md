@@ -93,12 +93,12 @@ All prices scraped live 2026-09-02 from [aah.monster](https://aah.monster). Roas
 | `Rebuild` | [Positioning Sprint](https://aah.monster/positioning-sprint/), 5 days | B2B that sounds like everyone | **€499** | [Sprint →](https://aah.monster/positioning-sprint/) |
 | `System` | [AI Executive System](https://aah.monster/ai-executive/) | Executive who became the bottleneck | **€1,500** | [AES →](https://aah.monster/ai-executive/) |
 | `Scale` | [The Monster Job](https://aah.monster/the-monster-job/), 4 weeks | Full personal brand transformation | **€2,500** | [Monster →](https://aah.monster/the-monster-job/) |
-| `Scale` | [Monster on Retainer](https://aah.monster/monster-retainer/) | Ongoing brand system | **€2k/mo** | [Retainer →](https://aah.monster/monster-retainer/) |
+| `Scale` | [Monster on Retainer](https://aah.monster/monster-retainer/) | Ongoing brand system | **€2,000/mo** | [Retainer →](https://aah.monster/monster-retainer/) |
 
 Plus books: Fear is the Brand Killer €49, Personal Branding Manual €97. Gorgona GEO Deploy and Hydra Firewall are bespoke, quoted per scope, not fixed ladder items.
 
 ### Funnel that actually converts
-Free gate (2 min) → sees your standard → €199 audit (async) → €499 sprint → €1,500 AI Executive System → €2,500 Monster Job → €2k/mo retainer. Each step hands you a document you can use.
+Free gate (2 min) → sees your standard → €199 audit (async) → €499 sprint → €1,500 AI Executive System → €2,500 Monster Job → €2,000/mo retainer. Each step hands you a document you can use.
 
 ---
 
@@ -119,6 +119,9 @@ Not social proof. System proof. For the buyer who checks before wiring €2,500.
 ---
 
 ## 🚀 Public Repositories
+
+### 🐍 Flagship Tooling
+- **[Gorgona](https://github.com/adrianpeticila/gorgona)**: Turn runaway AI agents to stone. The deterministic guardrail engine, model router, and execution discipline for autonomous AI agents. Pure Python, zero dependencies.
 
 | Repository | Focus & Architecture | Live Deployment |
 | :--- | :--- | :--- |
