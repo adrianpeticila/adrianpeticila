@@ -2,7 +2,7 @@
 
 # Adrian M. Peticila
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Adrian+Peticila%3A+CMO+%7C+Brand+Strategist;Marketing+Systems+Architect;Deterministic+AI+Tooling+%26+Protocols;Engineering+Anti-Fragile+B2B+Growth+Engines" alt="Adrian Peticila Typing Banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Adrian+M.+Peticila%3A+CMO+%7C+Brand+Strategist;Marketing+Systems+Architect;Deterministic+AI+Tooling+%26+Protocols;Engineering+Anti-Fragile+B2B+Growth+Engines" alt="Adrian Peticila Typing Banner" />
 
 <p align="center">
   <strong>CMO by day. Portfolio operator and systems architect after hours.</strong><br />
