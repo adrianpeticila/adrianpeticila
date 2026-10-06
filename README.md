@@ -21,11 +21,11 @@
 </p>
 
 <p align="center">
-  <a href="https://flamin-go.pages.dev"><img src="https://img.shields.io/badge/flamin.go-link%20aggregator-0EA5E9?style=for-the-badge&logo=linktree&logoColor=white" alt="flamin.go" /></a>
+  <a href="https://flamin-go.pages.dev"><img src="https://img.shields.io/badge/flamin.go-B2A%20intelligence-FF1A75?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="flamin.go" /></a>
+  <a href="https://github.com/adrianpeticila/gorgona"><img src="https://img.shields.io/badge/gorgona-v0.2.0%20guardrails-7c3aed?style=for-the-badge&logo=python&logoColor=white" alt="gorgona" /></a>
+  <a href="https://hydra.peticila.ro"><img src="https://img.shields.io/badge/hydra-15%20gates-111111?style=for-the-badge&logo=github&logoColor=white" alt="hydra" /></a>
   <a href="https://www.crunchbase.com/person/adrian-peticila"><img src="https://img.shields.io/badge/Crunchbase-adrian--peticila-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white" alt="Crunchbase" /></a>
   <a href="https://orcid.org/0009-0005-9601-9527"><img src="https://img.shields.io/badge/ORCID-0009--0005--9601--9527-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="https://hydra.peticila.ro"><img src="https://img.shields.io/badge/hydra-15%20gates-111111?style=for-the-badge&logo=github&logoColor=white" alt="hydra" /></a>
-  <a href="https://github.com/adrianpeticila/gorgona"><img src="https://img.shields.io/badge/gorgona-OS%20for%20brands-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="gorgona" /></a>
 </p>
 
 </div>
@@ -52,10 +52,10 @@ Canonical:    https://peticila.ro | Wikidata: Q140362129 | daemon.md
 B2B tech and software services with traction but diluted positioning. Losing on price, clarity, and AI search. They have team plus AI tools plus CRM plus content plus outbound, but as disconnected islands.
 
 ### What I build
-brand → positioning → gates → AI → automation → measurement, a deterministic system. Hydra is the shelf of 15 deterministic gates (Chasm, Slop, Canon, Aeolus, Roast, Deck) on [hydra.peticila.ro](https://hydra.peticila.ro). Gorgona is the OS that runs a portfolio of brands alone (model routing, token economy, verification, multi-brand isolation).
+brand → positioning → gates → AI → automation → measurement, a deterministic system. Hydra is the shelf of 15 deterministic gates (Chasm, Slop, Canon, Aeolus, Roast, Deck) on [hydra.peticila.ro](https://hydra.peticila.ro). Gorgona is the deterministic guardrail engine that stops runaway AI coding agents (sub-10ms cold start, zero dependencies, 4 guard engines).
 
 ### Proof
-Live systems, not slides. Hydra ships 15 gates verified 200 OK today, 41 commits on main. Gorgona ships 3 runnable guards in [tools/](https://github.com/adrianpeticila/gorgona/tree/main/tools) (security_exposure_check.sh, memory_graph_check.py, morning_routine.py). See System status below for verifiable live values. Every new client adds a row, nothing gets overwritten.
+Live systems, not slides. Hydra ships 15 gates verified 200 OK today, 43 commits on main. Gorgona v0.2.0 ships 4 core guard engines, 6 CLI commands, and 37/37 passing tests with 100% Python stdlib. See System status below for verifiable live values. Every new client adds a row, nothing gets overwritten.
 
 <p align="center">
   <a href="https://peticila.ro/nemesis-li/"><img src="https://img.shields.io/badge/Test%20free%20in%202%20min-Nemesis%20LI-1f883d?style=for-the-badge" alt="Test free" /></a>
@@ -81,7 +81,7 @@ Not a dev portfolio. An archive of systems, auditable, versioned gates I actuall
 
 ## Pricing ladder → enter where you are
 
-All prices scraped live 2026-09-02 from [aah.monster](https://aah.monster). Roast is $19 USD.
+All prices scraped live 2026-10-06 from [aah.monster](https://aah.monster). Roast is $19 USD.
 
 | Step | Product | Who it is for | Price | Link |
 | :--- | :--- | :--- | :---: | :---: |
@@ -108,10 +108,11 @@ If you are technical, verify it. If you are not, skip it. This table is for the 
 
 | What | Live value | Source | Link |
 | :--- | :--- | :--- | :---: |
-| Gates live | 15 on hydra.peticila.ro, all 200 OK today | curl 2026-09-02 | [Live →](https://hydra.peticila.ro) |
-| Hydra main | 41 commits | git log | [Commits →](https://github.com/adrianpeticila/hydra) |
-| Gorgona guards | 3 scripts in tools/ | ls gorgona/tools | [Tools →](https://github.com/adrianpeticila/gorgona) |
-| Profile | 10 repos, 1 star each, 44 followers | api.github.com | [Profile →](https://github.com/adrianpeticila) |
+| Gates live | 15 on hydra.peticila.ro, all 200 OK today | curl 2026-10-06 | [Live →](https://hydra.peticila.ro) |
+| Hydra main | 43 commits | git log | [Commits →](https://github.com/adrianpeticila/hydra) |
+| Gorgona v0.2.0 | 4 guard engines, 6 CLI commands, 37/37 tests | pytest + stdlib | [Gorgona →](https://github.com/adrianpeticila/gorgona) |
+| Profile | 15 public repos, 77 followers | api.github.com | [Profile →](https://github.com/adrianpeticila) |
+| Nemesis LI | LinkedIn profile grader + instant Stripe checkout | peticila.ro | [Nemesis →](https://peticila.ro/nemesis-li/) |
 | Daemon | daemon.md + daemon-data.json 200 OK, v1.0 | curl + json | [JSON →](https://peticila.ro/daemon-data.json) |
 
 Not social proof. System proof. For the buyer who checks before wiring €2,500. Business proof (Before/After pipeline, citations) lives in case-studies/ and grows per client.
@@ -125,12 +126,12 @@ Not social proof. System proof. For the buyer who checks before wiring €2,500.
 
 | Repository | Focus & Architecture | Live Deployment |
 | :--- | :--- | :--- |
-| [**`gorgona`**](https://github.com/adrianpeticila/gorgona) | GEO & AI Search Engine visibility analyzer and brand isolation engine. Deterministic auditing for LLM indexability and synthetic answer surface area. | [gorgona docs](https://github.com/adrianpeticila/gorgona) |
-| [**`hydra`**](https://github.com/adrianpeticila/hydra) | Hydra B2B Marketing Engine. Deterministic multi-agent framework and micro-tools for brand sanity, editorial gating, and cognitive tension analysis. | [hydra.peticila.ro](https://hydra.peticila.ro) |
-| [**`ai-babies`**](https://github.com/adrianpeticila/ai-babies) | Interactive multimodal early-learning cognitive training application built on edge infrastructure. | [aiforbabies.pages.dev](https://aiforbabies.pages.dev) |
-| [**`flamin-go`**](https://github.com/adrianpeticila/flamin-go) | Lightning-fast deterministic link aggregator, context triage engine, and WebMCP agent interface. | [flamin-go.pages.dev](https://flamin-go.pages.dev) |
+| [**`gorgona`**](https://github.com/adrianpeticila/gorgona) | Deterministic guardrail engine for autonomous AI agents. 4 core guard engines (Exposure, Isolation, TextCleaner, MemoryGraph), 6 CLI commands, 37/37 passing tests, 100% Python stdlib. | [gorgona docs](https://github.com/adrianpeticila/gorgona) |
+| [**`hydra`**](https://github.com/adrianpeticila/hydra) | Hydra B2B Marketing Engine. Deterministic multi-agent framework and 15 micro-tools for brand sanity, editorial gating, and cognitive tension analysis. | [hydra.peticila.ro](https://hydra.peticila.ro) |
+| [**`ai-babies`**](https://github.com/adrianpeticila/ai-babies) | Developer-first AI engineering suite (77-term dictionary, Prompt Engine, RAG course, WebMCP tools) and multimodal early-learning cognitive training application. | [aiforbabies.pages.dev](https://aiforbabies.pages.dev) |
+| [**`flamin-go`**](https://github.com/adrianpeticila/flamin-go) | B2A intelligence toolkit for solopreneurs & micro-SaaS: automated competitor teardowns, FastMCP agent servers, and M2M agentic commerce. | [flamin-go.pages.dev](https://flamin-go.pages.dev) |
 | [**`aah.monster`**](https://github.com/adrianpeticila/aah.monster) | Contrarian B2B brand strategy, positioning advisory, marketing intelligence, and developer-facing MCP tools. | [aah.monster](https://aah.monster) |
-| [**`peticila.ro`**](https://github.com/adrianpeticila/peticila.ro) | Canonical digital home, long-form essays on brand engineering, mental models, and home of the Nemesis LI profile grader. | [peticila.ro](https://peticila.ro) |
+| [**`peticila.ro`**](https://github.com/adrianpeticila/peticila.ro) | Canonical digital home, brand engineering essays, Nemesis LI profile grader with Stripe checkout, and CMO Intelligence Protocol MCP. | [peticila.ro](https://peticila.ro) |
 | [**`aponia.ro`**](https://github.com/adrianpeticila/aponia.ro) | Zero-friction clinical respite directory and portal for independent psychotherapists with client-side utility suite. | [aponia.ro](https://aponia.ro) |
 | [**`b2b-bullshit-detector`**](https://github.com/adrianpeticila/b2b-bullshit-detector) | Deterministic buzzword, fluff, and cognitive dilution analyzer for executive copy and pitch decks. | [b2b-bullshit-detector](https://github.com/adrianpeticila/b2b-bullshit-detector) |
 | [**`llmstxt-generator`**](https://github.com/adrianpeticila/llmstxt-generator) | AI-native site documentation builder and standardized LLM crawler manifest creator. | [llmstxt-generator](https://github.com/adrianpeticila/llmstxt-generator) |
@@ -157,8 +158,8 @@ Not social proof. System proof. For the buyer who checks before wiring €2,500.
 - [**AAH! Developer Suite**](https://aah.monster): [Gaia Code](https://aah.monster/gaia-code/), [Eos MCP](https://aah.monster/eos-mcp/), and [Positioning Audit MCP](https://aah.monster/mcp/).
 
 ### 2. Freemium Products
-- [**AI for Babies**](https://aiforbabies.pages.dev): Interactive early-learning cognitive training application. Self-serve cognitive expansion packs available on [Gumroad](https://aiforbabies.gumroad.com/l/cognitive-pack).
-- [**flamin.go**](https://flamin-go.pages.dev): High-speed link curator, context triage engine, and WebMCP agent interface.
+- [**AI for Babies**](https://aiforbabies.pages.dev): Interactive developer-first AI engineering suite and early-learning cognitive training packs on [Gumroad](https://aiforbabies.gumroad.com/l/cognitive-pack).
+- [**flamin.go**](https://flamin-go.pages.dev): B2A market intelligence toolkit, FastMCP agent servers, and M2M commerce engine.
 - [**llms.txt Generator**](https://github.com/adrianpeticila/llmstxt-generator): Automated documentation generator formatted specifically for LLM indexing agents.
 
 ### 3. Paid Client Offerings & Retainers
@@ -249,8 +250,8 @@ The verified digital presence, machine-readable identity endpoints, and disambig
   - [`peticila.ro`](https://peticila.ro) - Personal Hub, Brand Essays & Mental Models
   - [`aah.monster`](https://aah.monster) - B2B Brand Strategy Studio & MCP Tooling
   - [`aponia.ro`](https://aponia.ro) - Independent Psychotherapy Portal & Respite Suite
-  - [`aiforbabies.pages.dev`](https://aiforbabies.pages.dev) - Early-Learning Cognitive Apps
-  - [`flamin-go.pages.dev`](https://flamin-go.pages.dev) - Deterministic Link Aggregation
+  - [`aiforbabies.pages.dev`](https://aiforbabies.pages.dev) - AI Engineering Suite & Early Cognitive Apps
+  - [`flamin-go.pages.dev`](https://flamin-go.pages.dev) - B2A Intelligence Toolkit & Agentic Commerce
 - **Verified Authoritative Profiles**:
   - [LinkedIn](https://www.linkedin.com/in/adrian-peticila/) · [X / Twitter](https://x.com/adrianmpeticila) · [GitHub](https://github.com/adrianpeticila) · [Buy Me a Coffee](https://buymeacoffee.com/adrianmpeticila)
   - [Crunchbase](https://www.crunchbase.com/person/adrian-peticila) · [Product Hunt](https://www.producthunt.com/@adrian_m_peticila) · [Gravatar](https://gravatar.com/adrianmpeticila) · [About.me](https://about.me/adrian.peticila)
