@@ -95,7 +95,7 @@ All prices scraped live 2026-10-06 from [aah.monster](https://aah.monster). Roas
 | `Scale` | [The Monster Job](https://aah.monster/the-monster-job/), 4 weeks | Full personal brand transformation | **€2,500** | [Monster →](https://aah.monster/the-monster-job/) |
 | `Scale` | [Monster on Retainer](https://aah.monster/monster-retainer/) | Ongoing brand system | **€2,000/mo** | [Retainer →](https://aah.monster/monster-retainer/) |
 
-Plus books: Fear is the Brand Killer €49, Personal Branding Manual €97. Gorgona GEO Deploy and Hydra Firewall are bespoke, quoted per scope, not fixed ladder items.
+Plus books: [*Fear is the Brand Killer*](https://www.amazon.com/dp/B0H8Q8CFWK) ([Amazon](https://www.amazon.com/dp/B0H8Q8CFWK) · [Google Play](https://play.google.com/store/books/details?id=QxLzEQAAQBAJ)) €49, [*Personal Branding Manual*](https://www.amazon.com/dp/B0H8KGRPXG) ([Amazon](https://www.amazon.com/dp/B0H8KGRPXG) · [Google Play](https://play.google.com/store/books/details?id=KxLzEQAAQBAJ)) €97. Gorgona GEO Deploy and Hydra Firewall are bespoke, quoted per scope, not fixed ladder items.
 
 ### Funnel that actually converts
 Free gate (2 min) → sees your standard → €199 audit (async) → €499 sprint → €1,500 AI Executive System → €2,500 Monster Job → €2,000/mo retainer. Each step hands you a document you can use.
@@ -243,6 +243,10 @@ The Hydra framework comprises deterministic micro-tools running under `hydra.pet
 The verified digital presence, machine-readable identity endpoints, and disambiguation nodes across the global knowledge graph:
 
 - **Wikidata Entity**: [`Q140362129`](https://www.wikidata.org/wiki/Q140362129)
+- **ORCID iD**: [`0009-0005-9601-9527`](https://orcid.org/0009-0005-9601-9527)
+- **Published Books**:
+  - [*Fear is the Brand Killer*](https://www.amazon.com/dp/B0H8Q8CFWK) ([Amazon](https://www.amazon.com/dp/B0H8Q8CFWK) · [Google Play](https://play.google.com/store/books/details?id=QxLzEQAAQBAJ))
+  - [*The Ultimate Personal Branding Manual*](https://www.amazon.com/dp/B0H8KGRPXG) ([Amazon](https://www.amazon.com/dp/B0H8KGRPXG) · [Google Play](https://play.google.com/store/books/details?id=KxLzEQAAQBAJ))
 - **Personal Daemon API (Live Directives for AI Agents)**:
   - Machine-readable JSON: [`daemon-data.json`](https://peticila.ro/daemon-data.json)
   - Markdown Specification: [`daemon.md`](https://peticila.ro/daemon.md)
