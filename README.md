@@ -132,7 +132,8 @@ Not social proof. System proof. For the buyer who checks before wiring €2,500.
 | [**`flamin-go`**](https://github.com/adrianpeticila/flamin-go) | B2A intelligence toolkit for solopreneurs & micro-SaaS: automated competitor teardowns, FastMCP agent servers, and M2M agentic commerce. | [flamin-go.pages.dev](https://flamin-go.pages.dev) |
 | [**`aah.monster`**](https://github.com/adrianpeticila/aah.monster) | Contrarian B2B brand strategy, positioning advisory, marketing intelligence, and developer-facing MCP tools. | [aah.monster](https://aah.monster) |
 | [**`peticila.ro`**](https://github.com/adrianpeticila/peticila.ro) | Canonical digital home, brand engineering essays, Nemesis LI profile grader with Stripe checkout, and CMO Intelligence Protocol MCP. | [peticila.ro](https://peticila.ro) |
-| [**`aponia.ro`**](https://github.com/adrianpeticila/aponia.ro) | Zero-friction clinical respite directory and portal for independent psychotherapists with client-side utility suite. | [aponia.ro](https://aponia.ro) |
+| [**`aponia.ro`**](https://github.com/adrianpeticila/aponia.ro) | Zero-friction clinical respite directory and practice marketing portal for independent psychotherapists. | [aponia.ro](https://aponia.ro) |
+| [**`aponia-ro`**](https://github.com/adrianpeticila/aponia-ro) | Cross-platform clinical practice portal, scheduling engine, and therapeutic progression suite (React Native Web, Firebase). | [app.aponia.ro](https://app.aponia.ro) |
 | [**`b2b-bullshit-detector`**](https://github.com/adrianpeticila/b2b-bullshit-detector) | Deterministic buzzword, fluff, and cognitive dilution analyzer for executive copy and pitch decks. | [b2b-bullshit-detector](https://github.com/adrianpeticila/b2b-bullshit-detector) |
 | [**`llmstxt-generator`**](https://github.com/adrianpeticila/llmstxt-generator) | AI-native site documentation builder and standardized LLM crawler manifest creator. | [llmstxt-generator](https://github.com/adrianpeticila/llmstxt-generator) |
 | [**`adrianpeticila`**](https://github.com/adrianpeticila/adrianpeticila) | Canonical identity repository, profile configuration, and automated workflow orchestrations. | [adrianpeticila](https://github.com/adrianpeticila) |
@@ -253,7 +254,7 @@ The verified digital presence, machine-readable identity endpoints, and disambig
 - **Verified Web Properties**:
   - [`peticila.ro`](https://peticila.ro) - Personal Hub, Brand Essays & Mental Models
   - [`aah.monster`](https://aah.monster) - B2B Brand Strategy Studio & MCP Tooling
-  - [`aponia.ro`](https://aponia.ro) - Independent Psychotherapy Portal & Respite Suite
+  - [`aponia.ro`](https://aponia.ro) - Independent Psychotherapy Portal & Respite Suite ([app.aponia.ro](https://app.aponia.ro) Clinical Portal)
   - [`aiforbabies.pages.dev`](https://aiforbabies.pages.dev) - AI Engineering Suite & Early Cognitive Apps
   - [`flamin-go.pages.dev`](https://flamin-go.pages.dev) - B2A Intelligence Toolkit & Agentic Commerce
 - **Verified Authoritative Profiles**:
