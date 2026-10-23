@@ -21,6 +21,7 @@
 </p>
 
 <p align="center">
+  <a href="https://grai.page"><img src="https://img.shields.io/badge/grai-voice%20engine-D9480F?style=for-the-badge&logo=quill&logoColor=white" alt="grai" /></a>
   <a href="https://flamin-go.pages.dev"><img src="https://img.shields.io/badge/flamin.go-B2A%20intelligence-FF1A75?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="flamin.go" /></a>
   <a href="https://github.com/adrianpeticila/gorgona"><img src="https://img.shields.io/badge/gorgona-v0.2.0%20guardrails-7c3aed?style=for-the-badge&logo=python&logoColor=white" alt="gorgona" /></a>
   <a href="https://hydra.peticila.ro"><img src="https://img.shields.io/badge/hydra-15%20gates-111111?style=for-the-badge&logo=github&logoColor=white" alt="hydra" /></a>
@@ -88,6 +89,7 @@ All prices scraped live 2026-10-06 from [aah.monster](https://aah.monster). Roas
 | `Free` | [Nemesis LI](https://peticila.ro/nemesis-li/) plus [Slop Detector](https://hydra.peticila.ro/slop/) plus [Roast](https://hydra.peticila.ro/roast/) (free tier) | Anyone testing the standard in 2 min | **€0** | [Try →](https://peticila.ro/nemesis-li/) |
 | `Free` | [Chasm](https://hydra.peticila.ro/chasm/) / [Canon](https://hydra.peticila.ro/canon/) / [Tyche](https://hydra.peticila.ro/tyche/) / [Cadmus](https://hydra.peticila.ro/cadmus/) / [Aeolus](https://hydra.peticila.ro/aeolus/) | Teams shipping AI content or code without guardrails | **€0** | [Live →](https://hydra.peticila.ro) |
 | `Entry` | [Homepage Roaster](https://hydra.peticila.ro/roast/) (full unlock) | Homepages that do not convert | **$19** | [Roast →](https://hydra.peticila.ro/roast/) |
+| `Engine` | [grai](https://grai.page) (Founder / Agency offline workbench) | Founders & ghostwriters eliminating AI slop | **$69 / $149** | [grai.page →](https://grai.page) |
 | `Asset` | [Voice Fingerprint](https://aah.monster/voice-fingerprint/) | Teams paying for invisible writing | **€249** | [Voice →](https://aah.monster/voice-fingerprint/) |
 | `Diagnostic` | [Personal Brand Audit](https://aah.monster/brand-audit/), async 48 to 72h | Founder or C-level with unclear message | **€199** | [Audit →](https://aah.monster/brand-audit/) |
 | `Rebuild` | [Positioning Sprint](https://aah.monster/positioning-sprint/), 5 days | B2B that sounds like everyone | **€499** | [Sprint →](https://aah.monster/positioning-sprint/) |
@@ -110,6 +112,7 @@ If you are technical, verify it. If you are not, skip it. This table is for the 
 | :--- | :--- | :--- | :---: |
 | Gates live | 15 on hydra.peticila.ro, all 200 OK today | curl 2026-10-06 | [Live →](https://hydra.peticila.ro) |
 | Hydra main | 43 commits | git log | [Commits →](https://github.com/adrianpeticila/hydra) |
+| grai v3.1.1 | 622 KB air-gapped workbench, 6 syntactic rules, 39/39 checks, 134,522-post audit | grai.page | [grai →](https://grai.page) |
 | Gorgona v0.2.0 | 4 guard engines, 6 CLI commands, 37/37 tests | pytest + stdlib | [Gorgona →](https://github.com/adrianpeticila/gorgona) |
 | Profile | 15 public repos, 77 followers | api.github.com | [Profile →](https://github.com/adrianpeticila) |
 | Nemesis LI | LinkedIn profile grader + instant Stripe checkout | peticila.ro | [Nemesis →](https://peticila.ro/nemesis-li/) |
@@ -122,10 +125,12 @@ Not social proof. System proof. For the buyer who checks before wiring €2,500.
 ## 🚀 Public Repositories
 
 ### 🐍 Flagship Tooling
+- **[grai](https://github.com/adrianpeticila/grai)** ([grai.page](https://grai.page)): The personal voice engine. Extracts quantitative Voice DNA from your real posts, enforces a 6-rule deterministic cadence gate ($CV \ge 0.32$), and runs 100% offline in a 622 KB HTML5 workbench.
 - **[Gorgona](https://github.com/adrianpeticila/gorgona)**: Turn runaway AI agents to stone. The deterministic guardrail engine, model router, and execution discipline for autonomous AI agents. Pure Python, zero dependencies.
 
 | Repository | Focus & Architecture | Live Deployment |
 | :--- | :--- | :--- |
+| [**`grai`**](https://github.com/adrianpeticila/grai) | The personal voice engine. MIT 5-file instruction harness, Agent Skill, 6-rule deterministic cadence gate ($CV \ge 0.32$), and empirical linguistic study of 134,522 LinkedIn posts. | [grai.page](https://grai.page) |
 | [**`gorgona`**](https://github.com/adrianpeticila/gorgona) | Deterministic guardrail engine for autonomous AI agents. 4 core guard engines (Exposure, Isolation, TextCleaner, MemoryGraph), 6 CLI commands, 37/37 passing tests, 100% Python stdlib. | [gorgona docs](https://github.com/adrianpeticila/gorgona) |
 | [**`hydra`**](https://github.com/adrianpeticila/hydra) | Hydra B2B Marketing Engine. Deterministic multi-agent framework and 15 micro-tools for brand sanity, editorial gating, and cognitive tension analysis. | [hydra.peticila.ro](https://hydra.peticila.ro) |
 | [**`ai-babies`**](https://github.com/adrianpeticila/ai-babies) | Developer-first AI engineering suite (77-term dictionary, Prompt Engine, RAG course, WebMCP tools) and multimodal early-learning cognitive training application. | [aiforbabies.pages.dev](https://aiforbabies.pages.dev) |
