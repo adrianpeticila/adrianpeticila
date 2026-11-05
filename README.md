@@ -91,7 +91,7 @@ All prices scraped live 2026-10-06 from [aah.monster](https://aah.monster). Roas
 | `Free` | [Chasm](https://hydra.peticila.ro/chasm/) / [Canon](https://hydra.peticila.ro/canon/) / [Tyche](https://hydra.peticila.ro/tyche/) / [Cadmus](https://hydra.peticila.ro/cadmus/) / [Aeolus](https://hydra.peticila.ro/aeolus/) | Teams shipping AI content or code without guardrails | **€0** | [Live →](https://hydra.peticila.ro) |
 | `Entry` | [Homepage Roaster](https://hydra.peticila.ro/roast/) (full unlock) | Homepages that do not convert | **$19** | [Roast →](https://hydra.peticila.ro/roast/) |
 | `Free` | [grai-gate](https://github.com/adrianpeticila/grai-gate-action) (GitHub Action, PyPI, pre-commit) | Docs and CI teams checking markdown | **€0** | [GitHub →](https://github.com/adrianpeticila/grai-gate-action) |
-| `Engine` | [grai](https://grai.page) (v3.2.2: Founder $69, Agency $149, Presets $39, White-Label Studio $299/mo or $2,490/yr) | Founders & ghostwriting studios eliminating AI slop | **$39 to $299/mo** | [grai.page →](https://grai.page) |
+| `Engine` | [grai](https://grai.page) (v3.2.3: Founder $69, Agency $149, Presets $39, White-Label Studio $299/mo or $2,490/yr) | Founders & ghostwriting studios eliminating AI slop | **$39 to $299/mo** | [grai.page →](https://grai.page) |
 | `Asset` | [Voice Fingerprint](https://aah.monster/voice-fingerprint/) | Teams paying for invisible writing | **€249** | [Voice →](https://aah.monster/voice-fingerprint/) |
 | `Diagnostic` | [Personal Brand Audit](https://aah.monster/brand-audit/), async 48 to 72h | Founder or C-level with unclear message | **€199** | [Audit →](https://aah.monster/brand-audit/) |
 | `Rebuild` | [Positioning Sprint](https://aah.monster/positioning-sprint/), 5 days | B2B that sounds like everyone | **€499** | [Sprint →](https://aah.monster/positioning-sprint/) |
@@ -114,7 +114,7 @@ If you are technical, verify it. If you are not, skip it. This table is for the 
 | :--- | :--- | :--- | :---: |
 | Gates live | 15 on hydra.peticila.ro, all 200 OK today | curl 2026-10-06 | [Live →](https://hydra.peticila.ro) |
 | Hydra main | 43 commits | git log | [Commits →](https://github.com/adrianpeticila/hydra) |
-| grai v3.2.2 | 618 KB air-gapped workbench, signed seal and verify, Style Lock, Arcade Mastery, Voice DNA Presets ($39), White-Label Studio, 40/40 checks, 134,522-post audit | grai.page | [grai →](https://grai.page) |
+| grai v3.2.3 | 618 KB air-gapped workbench, signed seal and verify, Style Lock, Arcade Mastery, Voice DNA Presets ($39), White-Label Studio, 40/40 checks, 134,522-post audit | grai.page | [grai →](https://grai.page) |
 | Gorgona v0.2.0 | 4 guard engines, 6 CLI commands, 37/37 tests | pytest + stdlib | [Gorgona →](https://github.com/adrianpeticila/gorgona) |
 | Profile | 15 public repos, 77 followers | api.github.com | [Profile →](https://github.com/adrianpeticila) |
 | Nemesis LI | LinkedIn profile grader + instant Stripe checkout | peticila.ro | [Nemesis →](https://peticila.ro/nemesis-li/) |
@@ -127,13 +127,13 @@ Not social proof. System proof. For the buyer who checks before wiring €2,500.
 ## 🚀 Public Repositories
 
 ### 🐍 Flagship Tooling
-- **[grai](https://github.com/adrianpeticila/grai)** ([grai.page](https://grai.page)): The personal voice engine (v3.2.2). Extracts quantitative Voice DNA, enforces a 6-rule deterministic cadence gate ($CV \ge 0.32$), a signed hash-only seal, Style Lock for team rule sharing, Arcade progress layer, 1-click Ghost Sweep, 4 pre-calibrated Voice DNA Presets ($39), and White-Label Studio ($299/mo or $2,490/yr). Runs 100% offline in a 618 KB single-file HTML5 workbench.
+- **[grai](https://github.com/adrianpeticila/grai)** ([grai.page](https://grai.page)): The personal voice engine (v3.2.3). Extracts quantitative Voice DNA, enforces a 6-rule deterministic cadence gate ($CV \ge 0.32$), a signed hash-only seal, Style Lock for team rule sharing, Arcade progress layer, 1-click Ghost Sweep, 4 pre-calibrated Voice DNA Presets ($39), and White-Label Studio ($299/mo or $2,490/yr). Runs 100% offline in a 618 KB single-file HTML5 workbench.
 - **[grai-gate](https://github.com/adrianpeticila/grai-gate-action)**: Free deterministic style gate for markdown. GitHub Action, PyPI, and pre-commit. v2 validation: 7 of 63 model docs flagged, 3 of 58 human docs. Precision 70.0%, recall 11.1%. MIT.
 - **[Gorgona](https://github.com/adrianpeticila/gorgona)**: Turn runaway AI agents to stone. The deterministic guardrail engine, model router, and execution discipline for autonomous AI agents. Pure Python, zero dependencies.
 
 | Repository | Focus & Architecture | Live Deployment |
 | :--- | :--- | :--- |
-| [**`grai`**](https://github.com/adrianpeticila/grai) | The personal voice engine (v3.2.2). MIT 5-file instruction harness, Agent Skill, 6-rule cadence gate ($CV \ge 0.32$), signed hash-only seal, Style Lock, Arcade mastery layer, Voice DNA Presets, White-Label Studio, and 134,522-post empirical study. | [grai.page](https://grai.page) |
+| [**`grai`**](https://github.com/adrianpeticila/grai) | The personal voice engine (v3.2.3). MIT 5-file instruction harness, Agent Skill, 6-rule cadence gate ($CV \ge 0.32$), signed hash-only seal, Style Lock, Arcade mastery layer, Voice DNA Presets, White-Label Studio, and 134,522-post empirical study. | [grai.page](https://grai.page) |
 | [**`grai-gate`**](https://github.com/adrianpeticila/grai-gate-action) | Free deterministic style gate for markdown. GitHub Action, PyPI, pre-commit. v2 validation: 7/63 model docs flagged, 3/58 human docs. | [Marketplace](https://github.com/marketplace/actions/grai-gate) |
 | [**`gorgona`**](https://github.com/adrianpeticila/gorgona) | Deterministic guardrail engine for autonomous AI agents. 4 core guard engines (Exposure, Isolation, TextCleaner, MemoryGraph), 6 CLI commands, 37/37 passing tests, 100% Python stdlib. | [gorgona docs](https://github.com/adrianpeticila/gorgona) |
 | [**`hydra`**](https://github.com/adrianpeticila/hydra) | Hydra B2B Marketing Engine. Deterministic multi-agent framework and 15 micro-tools for brand sanity, editorial gating, and cognitive tension analysis. | [hydra.peticila.ro](https://hydra.peticila.ro) |
