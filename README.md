@@ -23,6 +23,7 @@
 <p align="center">
   <a href="https://grai.page"><img src="https://img.shields.io/badge/grai-voice%20engine-D9480F?style=for-the-badge&logo=quill&logoColor=white" alt="grai" /></a>
 <a href="https://github.com/adrianpeticila/grai-gate-action"><img src="https://img.shields.io/badge/grai--gate-free%20style%20gate-141413?style=for-the-badge&logo=githubactions&logoColor=white" alt="grai-gate" /></a>
+<a href="https://grai.page/mcp"><img src="https://img.shields.io/badge/grai--mcp-MCP%20server-0EA5E9?style=for-the-badge" alt="grai-mcp" /></a>
   <a href="https://flamin-go.pages.dev"><img src="https://img.shields.io/badge/flamin.go-B2A%20intelligence-FF1A75?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="flamin.go" /></a>
   <a href="https://github.com/adrianpeticila/gorgona"><img src="https://img.shields.io/badge/gorgona-v0.2.0%20guardrails-7c3aed?style=for-the-badge&logo=python&logoColor=white" alt="gorgona" /></a>
   <a href="https://hydra.peticila.ro"><img src="https://img.shields.io/badge/hydra-15%20gates-111111?style=for-the-badge&logo=github&logoColor=white" alt="hydra" /></a>
@@ -91,6 +92,7 @@ All prices scraped live 2026-10-06 from [aah.monster](https://aah.monster). Roas
 | `Free` | [Chasm](https://hydra.peticila.ro/chasm/) / [Canon](https://hydra.peticila.ro/canon/) / [Tyche](https://hydra.peticila.ro/tyche/) / [Cadmus](https://hydra.peticila.ro/cadmus/) / [Aeolus](https://hydra.peticila.ro/aeolus/) | Teams shipping AI content or code without guardrails | **€0** | [Live →](https://hydra.peticila.ro) |
 | `Entry` | [Homepage Roaster](https://hydra.peticila.ro/roast/) (full unlock) | Homepages that do not convert | **$19** | [Roast →](https://hydra.peticila.ro/roast/) |
 | `Free` | [grai-gate](https://github.com/adrianpeticila/grai-gate-action) (GitHub Action, PyPI, pre-commit) | Docs and CI teams checking markdown | **€0** | [GitHub →](https://github.com/adrianpeticila/grai-gate-action) |
+| `Free` | [grai-mcp](https://grai.page/mcp) (MCP server, PyPI, official MCP Registry, Docker) | Coding agents that gate drafts before shipping | **€0** | [MCP →](https://grai.page/mcp) |
 | `Engine` | [grai](https://grai.page) (v3.3.0: Solo Offline $79/yr, Agency Verification Protocol $99/mo or $790/yr, Executive DFY $950, Presets $39) | The gatekeeper and proof engine for human voice. Binary style gate + ECDSA signed audit cards | **$79/yr to $950** | [grai.page →](https://grai.page) |
 | `Asset` | [Voice Fingerprint](https://aah.monster/voice-fingerprint/) | Teams paying for invisible writing | **€249** | [Voice →](https://aah.monster/voice-fingerprint/) |
 | `Diagnostic` | [Personal Brand Audit](https://aah.monster/brand-audit/), async 48 to 72h | Founder or C-level with unclear message | **€199** | [Audit →](https://aah.monster/brand-audit/) |
@@ -127,7 +129,7 @@ Not social proof. System proof. For the buyer who checks before wiring €2,500.
 ## 🚀 Public Repositories
 
 ### 🐍 Flagship Tooling
-- **[grai](https://github.com/adrianpeticila/grai)** ([grai.page](https://grai.page)): The gatekeeper and proof engine for human voice (v3.3.0). Input raw text, get a binary PASS or FAIL against eight mechanical rules plus $CV \ge 0.32$, and output clean text with a shared ECDSA P-256 audit card. Extracts quantitative Voice DNA, issues live registry seals (`grai.page/verify/:hash`) via the Agency Verification Protocol ($99/mo or $790/yr), alongside Solo Offline Edition ($79/yr), Executive Voice DNA Architecture DFY ($950), and Voice DNA Presets ($39). Runs locally in a 618 KB single-file HTML5 workbench.
+- **[grai](https://github.com/adrianpeticila/grai)** ([grai.page](https://grai.page)): The gatekeeper and proof engine for human voice (v3.3.0). Input raw text, get a binary PASS or FAIL against eight mechanical rules plus $CV \ge 0.32$, and output clean text with a shared ECDSA P-256 audit card. Extracts quantitative Voice DNA, issues live registry seals (`grai.page/verify/:hash`) via the Agency Verification Protocol ($99/mo or $790/yr), alongside Solo Offline Edition ($79/yr), Executive Voice DNA Architecture DFY ($950), and Voice DNA Presets ($39). Runs locally in a 618 KB single-file HTML5 workbench. Also ships [**`grai-mcp`**](https://grai.page/mcp), a Model Context Protocol server on PyPI and in the official MCP Registry (`io.github.adrianpeticila/grai-mcp`), with a Docker image, so coding agents can call the gate directly.
 - **[grai-gate](https://github.com/adrianpeticila/grai-gate-action)**: Free deterministic style gate for markdown. GitHub Action, PyPI, and pre-commit. v2 validation: 7 of 63 model docs flagged, 3 of 58 human docs. Precision 70.0%, recall 11.1%. MIT.
 - **[Gorgona](https://github.com/adrianpeticila/gorgona)**: Turn runaway AI agents to stone. The deterministic guardrail engine, model router, and execution discipline for autonomous AI agents. Pure Python, zero dependencies.
 
