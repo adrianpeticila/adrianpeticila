@@ -91,7 +91,7 @@ All prices scraped live 2026-10-06 from [aah.monster](https://aah.monster). Roas
 | `Free` | [Chasm](https://hydra.peticila.ro/chasm/) / [Canon](https://hydra.peticila.ro/canon/) / [Tyche](https://hydra.peticila.ro/tyche/) / [Cadmus](https://hydra.peticila.ro/cadmus/) / [Aeolus](https://hydra.peticila.ro/aeolus/) | Teams shipping AI content or code without guardrails | **€0** | [Live →](https://hydra.peticila.ro) |
 | `Entry` | [Homepage Roaster](https://hydra.peticila.ro/roast/) (full unlock) | Homepages that do not convert | **$19** | [Roast →](https://hydra.peticila.ro/roast/) |
 | `Free` | [grai-gate](https://github.com/adrianpeticila/grai-gate-action) (GitHub Action, PyPI, pre-commit) | Docs and CI teams checking markdown | **€0** | [GitHub →](https://github.com/adrianpeticila/grai-gate-action) |
-| `Engine` | [grai](https://grai.page) (v3.3.0: Solo Offline $79/yr, Agency Verification Protocol $99/mo or $790/yr, Executive DFY $950, Presets $39) | Founders & ghostwriting agencies proving human cadence | **$79/yr to $950** | [grai.page →](https://grai.page) |
+| `Engine` | [grai](https://grai.page) (v3.3.0: Solo Offline $79/yr, Agency Verification Protocol $99/mo or $790/yr, Executive DFY $950, Presets $39) | The gatekeeper and proof engine for human voice. Binary style gate + ECDSA signed audit cards | **$79/yr to $950** | [grai.page →](https://grai.page) |
 | `Asset` | [Voice Fingerprint](https://aah.monster/voice-fingerprint/) | Teams paying for invisible writing | **€249** | [Voice →](https://aah.monster/voice-fingerprint/) |
 | `Diagnostic` | [Personal Brand Audit](https://aah.monster/brand-audit/), async 48 to 72h | Founder or C-level with unclear message | **€199** | [Audit →](https://aah.monster/brand-audit/) |
 | `Rebuild` | [Positioning Sprint](https://aah.monster/positioning-sprint/), 5 days | B2B that sounds like everyone | **€499** | [Sprint →](https://aah.monster/positioning-sprint/) |
@@ -114,7 +114,7 @@ If you are technical, verify it. If you are not, skip it. This table is for the 
 | :--- | :--- | :--- | :---: |
 | Gates live | 15 on hydra.peticila.ro, all 200 OK today | curl 2026-10-06 | [Live →](https://hydra.peticila.ro) |
 | Hydra main | 43 commits | git log | [Commits →](https://github.com/adrianpeticila/hydra) |
-| grai v3.3.0 | 618 KB local-first workbench, 8-rule cadence gate (CV >= 0.32), ECDSA P-256 Agency Verification Protocol (/verify/:hash), Stripe webhook provisioning, 43/43 checks, 9/9 canaries, 15/15 protocol tests | grai.page | [grai →](https://grai.page) |
+| grai v3.3.0 | 618 KB local-first workbench, binary PASS/FAIL style gate (8 rules + CV >= 0.32), shared ECDSA P-256 audit cards, live registry seals (/verify/:hash), Stripe webhook provisioning, 43/43 checks, 9/9 canaries, 25/25 protocol tests | grai.page | [grai →](https://grai.page) |
 | Gorgona v0.2.0 | 4 guard engines, 6 CLI commands, 37/37 tests | pytest + stdlib | [Gorgona →](https://github.com/adrianpeticila/gorgona) |
 | Profile | 15 public repos, 77 followers | api.github.com | [Profile →](https://github.com/adrianpeticila) |
 | Nemesis LI | LinkedIn profile grader + instant Stripe checkout | peticila.ro | [Nemesis →](https://peticila.ro/nemesis-li/) |
@@ -127,13 +127,13 @@ Not social proof. System proof. For the buyer who checks before wiring €2,500.
 ## 🚀 Public Repositories
 
 ### 🐍 Flagship Tooling
-- **[grai](https://github.com/adrianpeticila/grai)** ([grai.page](https://grai.page)): The personal voice engine (v3.3.0). Extracts quantitative Voice DNA, enforces an 8-rule deterministic cadence gate ($CV \ge 0.32$), and issues ECDSA P-256 cryptographic verification certificates (`grai.page/verify/:hash`) via the Agency Verification Protocol ($99/mo or $790/yr), alongside Solo Offline Edition ($79/yr), Executive Voice DNA Architecture DFY ($950), and Voice DNA Presets ($39). Runs locally in a 618 KB single-file HTML5 workbench.
+- **[grai](https://github.com/adrianpeticila/grai)** ([grai.page](https://grai.page)): The gatekeeper and proof engine for human voice (v3.3.0). Input raw text, get a binary PASS or FAIL against eight mechanical rules plus $CV \ge 0.32$, and output clean text with a shared ECDSA P-256 audit card. Extracts quantitative Voice DNA, issues live registry seals (`grai.page/verify/:hash`) via the Agency Verification Protocol ($99/mo or $790/yr), alongside Solo Offline Edition ($79/yr), Executive Voice DNA Architecture DFY ($950), and Voice DNA Presets ($39). Runs locally in a 618 KB single-file HTML5 workbench.
 - **[grai-gate](https://github.com/adrianpeticila/grai-gate-action)**: Free deterministic style gate for markdown. GitHub Action, PyPI, and pre-commit. v2 validation: 7 of 63 model docs flagged, 3 of 58 human docs. Precision 70.0%, recall 11.1%. MIT.
 - **[Gorgona](https://github.com/adrianpeticila/gorgona)**: Turn runaway AI agents to stone. The deterministic guardrail engine, model router, and execution discipline for autonomous AI agents. Pure Python, zero dependencies.
 
 | Repository | Focus & Architecture | Live Deployment |
 | :--- | :--- | :--- |
-| [**`grai`**](https://github.com/adrianpeticila/grai) | The personal voice engine (v3.3.0). MIT 5-file instruction harness, Agent Skill, 8-rule cadence gate ($CV \ge 0.32$), ECDSA P-256 Agency Verification Protocol (`/verify/:hash`), Style Lock, Voice DNA Presets, and 134,522-post empirical study. | [grai.page](https://grai.page) |
+| [**`grai`**](https://github.com/adrianpeticila/grai) | The gatekeeper and proof engine for human voice (v3.3.0). MIT 5-file instruction harness, Agent Skill, binary PASS/FAIL style gate (8 rules plus $CV \ge 0.32$), shared ECDSA P-256 audit cards, live registry seals (`/verify/:hash`), Style Lock, Voice DNA Presets, and 134,522-post empirical study. | [grai.page](https://grai.page) |
 | [**`grai-gate`**](https://github.com/adrianpeticila/grai-gate-action) | Free deterministic style gate for markdown. GitHub Action, PyPI, pre-commit. v2 validation: 7/63 model docs flagged, 3/58 human docs. | [Marketplace](https://github.com/marketplace/actions/grai-gate) |
 | [**`gorgona`**](https://github.com/adrianpeticila/gorgona) | Deterministic guardrail engine for autonomous AI agents. 4 core guard engines (Exposure, Isolation, TextCleaner, MemoryGraph), 6 CLI commands, 37/37 passing tests, 100% Python stdlib. | [gorgona docs](https://github.com/adrianpeticila/gorgona) |
 | [**`hydra`**](https://github.com/adrianpeticila/hydra) | Hydra B2B Marketing Engine. Deterministic multi-agent framework and 15 micro-tools for brand sanity, editorial gating, and cognitive tension analysis. | [hydra.peticila.ro](https://hydra.peticila.ro) |
@@ -266,7 +266,7 @@ The verified digital presence, machine-readable identity endpoints, and disambig
   - [`aponia.ro`](https://aponia.ro) - Independent Psychotherapy Portal & Respite Suite ([app.aponia.ro](https://app.aponia.ro) Clinical Portal)
   - [`aiforbabies.pages.dev`](https://aiforbabies.pages.dev) - AI Engineering Suite & Early Cognitive Apps
   - [`flamin-go.pages.dev`](https://flamin-go.pages.dev) - B2A Intelligence Toolkit & Agentic Commerce
-  - [`grai.page`](https://grai.page) - Local-First Personal Voice Engine & ECDSA P-256 Agency Verification Protocol
+  - [`grai.page`](https://grai.page) - The gatekeeper and proof engine for human voice. Binary style gate + ECDSA signed audit cards
 - **Verified Authoritative Profiles**:
   - [LinkedIn](https://www.linkedin.com/in/adrian-peticila/) · [X / Twitter](https://x.com/adrianmpeticila) · [GitHub](https://github.com/adrianpeticila) · [Buy Me a Coffee](https://buymeacoffee.com/adrianmpeticila)
   - [Crunchbase](https://www.crunchbase.com/person/adrian-peticila) · [Product Hunt](https://www.producthunt.com/@adrian_m_peticila) · [Gravatar](https://gravatar.com/adrianmpeticila) · [About.me](https://about.me/adrian.peticila)
