@@ -23,6 +23,7 @@
 <p align="center">
   <a href="https://grai.page"><img src="https://img.shields.io/badge/grai-voice%20engine-D9480F?style=for-the-badge&logo=quill&logoColor=white" alt="grai" /></a>
 <a href="https://grai.page/ai-tells/"><img src="https://img.shields.io/badge/AI%20Tell%20Checker-free-D9480F?style=for-the-badge&logo=quill&logoColor=white" alt="AI Tell Checker" /></a>
+<a href="https://grai.page/proof"><img src="https://img.shields.io/badge/Proof%20Registry-3%20live%20records-D9480F?style=for-the-badge&logo=quill&logoColor=white" alt="grai Proof Registry" /></a>
 <a href="https://github.com/adrianpeticila/grai-gate-action"><img src="https://img.shields.io/badge/grai--gate-free%20style%20gate-141413?style=for-the-badge&logo=githubactions&logoColor=white" alt="grai-gate" /></a>
 <a href="https://grai.page/mcp"><img src="https://img.shields.io/badge/grai--mcp-MCP%20server-0EA5E9?style=for-the-badge" alt="grai-mcp" /></a>
   <a href="https://flamin-go.pages.dev"><img src="https://img.shields.io/badge/flamin.go-B2A%20intelligence-FF1A75?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="flamin.go" /></a>
