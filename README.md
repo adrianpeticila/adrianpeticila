@@ -96,7 +96,7 @@ All prices scraped live 2026-10-06 from [aah.monster](https://aah.monster). Roas
 | `Free` | [AI Tell Checker](https://grai.page/ai-tells/) (browser, no account) | Writers checking a draft against the twelve Wikipedia patterns | **€0** | [Check →](https://grai.page/ai-tells/) |
 | `Free` | [grai-gate](https://github.com/adrianpeticila/grai-gate-action) (GitHub Action, PyPI, pre-commit) | Docs and CI teams checking markdown | **€0** | [GitHub →](https://github.com/adrianpeticila/grai-gate-action) |
 | `Free` | [grai-mcp](https://grai.page/mcp) (MCP server, PyPI, official MCP Registry, Docker) | Coding agents that gate drafts before shipping | **€0** | [MCP →](https://grai.page/mcp) |
-| `Engine` | [grai](https://grai.page) (v3.3.0: Solo Offline $79/yr, Agency Verification Protocol $99/mo or $790/yr, Executive DFY $950, Presets $39) | The gatekeeper and proof engine for human voice. Binary style gate + ECDSA signed audit cards | **$79/yr to $950** | [grai.page →](https://grai.page) |
+| `Engine` | [grai](https://grai.page) (v3.3.0: Starter Audit Pass $19, Solo Offline $79/yr, Agency Verification Protocol $99/mo or $790/yr, Executive DFY $950, Presets $39) | The gatekeeper and proof engine for human voice. Binary style gate + ECDSA signed audit cards | **$19 to $950** | [grai.page →](https://grai.page) |
 | `Asset` | [Voice Fingerprint](https://aah.monster/voice-fingerprint/) | Teams paying for invisible writing | **€249** | [Voice →](https://aah.monster/voice-fingerprint/) |
 | `Diagnostic` | [Personal Brand Audit](https://aah.monster/brand-audit/), async 48 to 72h | Founder or C-level with unclear message | **€199** | [Audit →](https://aah.monster/brand-audit/) |
 | `Rebuild` | [Positioning Sprint](https://aah.monster/positioning-sprint/), 5 days | B2B that sounds like everyone | **€499** | [Sprint →](https://aah.monster/positioning-sprint/) |
@@ -267,11 +267,12 @@ The verified digital presence, machine-readable identity endpoints, and disambig
   - Markdown Specification: [`daemon.md`](https://peticila.ro/daemon.md)
 - **Verified Web Properties**:
   - [`peticila.ro`](https://peticila.ro) - Personal Hub, Brand Essays & Mental Models
+  - [`grai.page`](https://grai.page) - grai: Deterministic Voice DNA & 8-Rule Cadence Engine
+  - [`github.com/adrianpeticila/grai-gate-action`](https://github.com/adrianpeticila/grai-gate-action) - grai-gate: Deterministic CI/CD, pre-commit & PyPI Markdown Cadence Gate
   - [`aah.monster`](https://aah.monster) - B2B Brand Strategy Studio & MCP Tooling
   - [`aponia.ro`](https://aponia.ro) - Independent Psychotherapy Portal & Respite Suite ([app.aponia.ro](https://app.aponia.ro) Clinical Portal)
   - [`aiforbabies.pages.dev`](https://aiforbabies.pages.dev) - AI Engineering Suite & Early Cognitive Apps
   - [`flamin-go.pages.dev`](https://flamin-go.pages.dev) - B2A Intelligence Toolkit & Agentic Commerce
-  - [`grai.page`](https://grai.page) - The gatekeeper and proof engine for human voice. Binary style gate + ECDSA signed audit cards
 - **Verified Authoritative Profiles**:
   - [LinkedIn](https://www.linkedin.com/in/adrian-peticila/) · [X / Twitter](https://x.com/adrianmpeticila) · [GitHub](https://github.com/adrianpeticila) · [Buy Me a Coffee](https://buymeacoffee.com/adrianmpeticila)
   - [Crunchbase](https://www.crunchbase.com/person/adrian-peticila) · [Product Hunt](https://www.producthunt.com/@adrian_m_peticila) · [Gravatar](https://gravatar.com/adrianmpeticila) · [About.me](https://about.me/adrian.peticila)
